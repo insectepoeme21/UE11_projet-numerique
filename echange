@@ -1,15 +1,6 @@
-Petit document texte histoir d'échanger sur ce qu'on a modifié dans les commits, ce qu'on voudrait changer...
-
-Génération des points : on a directement la génération des points qui affichent le graphe, j'ai mis avant une case avec la méthode simple qui renvoie le tableau. La méthode d'affichage est mise dans la question où l'on nous demande de vérifier graphiquement le résultat obtenu.
+Petit document texte histoire d'échanger sur ce qu'on a modifié dans les commits, ce qu'on voudrait changer...
 
 L'affichage pour la fonction f3 est bizarre : il ne semble pas se faire par la droite du gradient pour <affichage(f3, 0.8, 0.8)>
 
-Je ne comprends pas ce que fait la case utilisant level_curve_2 et display_contour, affichant un oeuf bleu
-
-La fonction area dans la méthode des carrés, elle sort d'où?
-
-Les fonctions arear_squares_2 et area_squares_3 c'est là où tu as testé la différence entre parcourir le tableau avec des for et en le modifiant avec les petits carrés?
-
-Méthode des triangles : dans le calcul de l'aire, je ne comprends pas le déterminant de cette matrice
-
-J'ai modifié pas mal de noms de fonctions qui étaient redondants, comme plot_err
+A modifier:
+- explication et dessin pour la fonction area_squares_2
